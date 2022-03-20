@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1-sgbd", "Atestat_SistemulOsos\lab1-sgbd.csproj", "{C651F0E0-3951-490B-AA6C-20B53AAE94EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C651F0E0-3951-490B-AA6C-20B53AAE94EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C651F0E0-3951-490B-AA6C-20B53AAE94EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C651F0E0-3951-490B-AA6C-20B53AAE94EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C651F0E0-3951-490B-AA6C-20B53AAE94EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F115CB3D-503F-498A-B7C0-276D04E9273C}
+	EndGlobalSection
+EndGlobal

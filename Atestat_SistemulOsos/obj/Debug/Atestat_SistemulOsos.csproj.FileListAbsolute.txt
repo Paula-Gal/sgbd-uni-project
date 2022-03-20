@@ -1,0 +1,45 @@
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe.config
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.pdb
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csprojAssemblyReference.cache
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Form1.resources
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Properties.Resources.resources
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.GenerateResource.cache
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.CoreCompileInputs.cache
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.exe
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.pdb
+M:\Cosmina Gal\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.chestionar.resources
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.AssemblyReference.cache
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.SuggestedBindingRedirects.cache
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.chestionar.resources
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Form1.resources
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Properties.Resources.resources
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.GenerateResource.cache
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.CoreCompileInputs.cache
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.exe
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.pdb
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe.config
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe
+C:\Users\galpa\OneDrive\Bureau\atestat\ATESTAT\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.pdb
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe.config
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.pdb
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csprojAssemblyReference.cache
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.chestionar.resources
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Form1.resources
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Properties.Resources.resources
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.GenerateResource.cache
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.CoreCompileInputs.cache
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.exe
+M:\Cosmina Gal\ATESTAT\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.pdb
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe.config
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.pdb
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.AssemblyReference.cache
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.chestionar.resources
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Form1.resources
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Properties.Resources.resources
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.GenerateResource.cache
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.csproj.CoreCompileInputs.cache
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.exe
+C:\Users\galpa\Downloads\atestat0.2\atestat0.1\atestat0.1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.pdb

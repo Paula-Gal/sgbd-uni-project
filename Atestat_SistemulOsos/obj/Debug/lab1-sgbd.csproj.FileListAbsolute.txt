@@ -1,0 +1,11 @@
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.exe
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.pdb
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe.config
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.exe
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\bin\Debug\Atestat_SistemulOsos.pdb
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\Atestat_SistemulOsos.Properties.Resources.resources
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\lab1-sgbd.csproj.GenerateResource.cache
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\lab1-sgbd.csproj.CoreCompileInputs.cache
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\lab1-sgbd.csproj.AssemblyReference.cache
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\lab1sgbd.SecondForm.resources
+C:\Users\galpa\Anul2\Sem2\SBGD\LAB1\Atestat_SistemulOsos\Atestat_SistemulOsos\obj\Debug\lab1sgbd.MainForm.resources
